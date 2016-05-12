@@ -2,8 +2,9 @@
   "albumInfo" :
   {
     "title" : "Prom King",
+    "artist" : "Skylar Spence",
     "genre" : "Pop",
-    "runTime" : "47:21",
+    "runTime" : "40:46",
     "numOfTracks" : 11
   },
 
