@@ -5,7 +5,7 @@
     "artist" : "Skylar Spence",
     "genre" : "Pop",
     "runTime" : "8:47",
-    "numOfTracks" : 2,
+    "numOfTracks" : 2
   },
 
   "trackInfo" :
@@ -13,12 +13,14 @@
     {
       "trackNum" : 1,
       "trackTitle" : "Fiona Coyne",
+      "artist" : "Skylar Spence",
       "length" : "4:04"
     },
 
     {
       "trackNum" : 2,
       "trackTitle" : "Fall Harder",
+      "artist" : "Skylar Spence",
       "length" : "4:43"
     }
   ]

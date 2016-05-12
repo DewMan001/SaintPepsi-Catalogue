@@ -13,66 +13,77 @@
     {
       "trackNum" : 1,
       "trackTitle" : "Intro",
+      "artist" : "Skylar Spence",
       "length" : "2:11"
     },
 
     {
       "trackNum" : 2,
       "trackTitle" : "Can't You See",
+      "artist" : "Skylar Spence",
       "length" : "4:06"
     },
 
     {
       "trackNum" : 3,
       "trackTitle" : "Prom King",
+      "artist" : "Skylar Spence",
       "length" : "4:14"
     }
 
     {
       "trackNum" : 4,
       "trackTitle" : "I Can't Be Your Superman",
+      "artist" : "Skylar Spence",
       "length" : "4:20"
     }
 
     {
       "trackNum" : 5,
       "trackTitle" : "Ridiculous!",
+      "artist" : "Skylar Spence",
       "length" : "3:34"
     }
 
     {
       "trackNum" : 6,
       "trackTitle" : "Fall Harder",
+      "artist" : "Skylar Spence",
       "length" : "4:46"
     }
 
     {
       "trackNum" : 7,
       "trackTitle" : "Bounce is Back",
+      "artist" : "Skylar Spence",
       "length" : "3:30"
     },
 
     {
       "trackNum" : 8,
       "trackTitle" : "Affairs",
+      "artist" : "Skylar Spence",
       "length" : "4:21"
     },
 
     {
       "trackNum" : 9,
       "trackTitle" : "All I Want",
+      "artist" : "Skylar Spence",
       "length" : "3:00"
     },
 
     {
       "trackNum" : 10,
       "trackTitle" : "Cash Wednesday",
+      "artist" : "Skylar Spence",
       "length" : "2:30"
     },
 
     {
       "trackNum" : 11,
       "trackTitle" : "Fiona Coyne",
+      "artist" : "Skylar Spence",
       "length" : "4:08"
     }
   ]
