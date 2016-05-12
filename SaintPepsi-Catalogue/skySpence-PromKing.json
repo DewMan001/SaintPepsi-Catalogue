@@ -1,9 +1,78 @@
 {
-  "albumInfo":
+  "albumInfo" :
   {
     "title" : "Prom King",
     "genre" : "Pop",
     "runTime" : "47:21",
-    "numOfTracks"
-  }
+    "numOfTracks" : 11
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Intro",
+      "length" : "2:11"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "Can't You See",
+      "length" : "4:06"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "Prom King",
+      "length" : "4:14"
+    }
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "I Can't Be Your Superman",
+      "length" : "4:20"
+    }
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "Ridiculous!",
+      "length" : "3:34"
+    }
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "Fall Harder",
+      "length" : "4:46"
+    }
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "Bounce is Back",
+      "length" : "3:30"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "Affairs",
+      "length" : "4:21"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "All I Want",
+      "length" : "3:00"
+    },
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "Cash Wednesday",
+      "length" : "2:30"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "Fiona Coyne",
+      "length" : "4:08"
+    }
+  ]
 }
