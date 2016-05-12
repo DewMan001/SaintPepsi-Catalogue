@@ -1,0 +1,104 @@
+{
+  "albumInfo" :
+  {
+    "title" : "Hit Vibes",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "36:19",
+    "numOfTracks" : 13
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Hit Vibes",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "Have Faith",
+      "artist" : "Saint Pepsi",
+      "length" : "2:39"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "Better",
+      "artist" : "Saint Pepsi",
+      "length" : "3:46"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "Cherry Pepsi",
+      "artist" : "Saint Pepsi",
+      "length" : "3:07"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "Together",
+      "artist" : "Saint Pepsi",
+      "length" : "2:25"
+    },
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "Around",
+      "artist" : "Saint Pepsi",
+      "length" : "3:02"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "Skylar Spence",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+
+    {
+      "trackNum" : 13,
+      "trackTitle" : "",
+      "artist" : "Saint Pepsi",
+      "length" : ""
+    },
+  ]
+}
