@@ -80,7 +80,26 @@
     },
 
     {
-      "trackNum" : 
-    }
+      "trackNum" : 10,
+      "trackTitle" : "Love Takeover",
+      "artist" : "Saint Pepsi",
+      "length" : "3:10"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "Hip To Be Square",
+      "artist" : "Saint Pepsi",
+      "length" : "2:01"
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "Tribute to Topaz Gang",
+      "artist" : "Saint Pepsi",
+      "length" : "1:47"
+    },
+
+    
   ]
 }
