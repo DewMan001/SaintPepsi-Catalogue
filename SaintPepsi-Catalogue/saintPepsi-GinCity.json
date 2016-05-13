@@ -12,5 +12,34 @@
       "month" : "February",
       "year" : "2014"
     }
-  }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Gin City (feat. Taøers)",
+      "artist" : "Saint Pepsi",
+      "length" : "2:35"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "Walking Talking",
+      "artist" : "Saint Pepsi",
+      "length" : "3:48"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "Baby",
+      "artist" : "Saint Pepsi",
+      "length" : "3:12"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "Disappearing"
+    }
+  ]
 }
