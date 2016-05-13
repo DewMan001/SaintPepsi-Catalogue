@@ -1,0 +1,14 @@
+{
+  "albumInfo" :
+  {
+    "title" : "Gin City",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "18:58",
+    "numOfTracks" : 6,
+    "releaseDate" :
+    {
+      "day" : 
+    }
+  }
+}
