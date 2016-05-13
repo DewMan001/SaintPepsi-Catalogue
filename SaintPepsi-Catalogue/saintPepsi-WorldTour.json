@@ -111,6 +111,14 @@
       "trackNum" : 14,
       "title" : "miracle on lennox",
       "artist" : "Saint Pepsi",
+      "length" : "1:28"
+    },
+
+    {
+      "trackNum" : 15,
+      "title" : "p e p s i",
+      "artist" : "Saint Pepsi",
+      "length" : "0:18"
     }
   ]
 
