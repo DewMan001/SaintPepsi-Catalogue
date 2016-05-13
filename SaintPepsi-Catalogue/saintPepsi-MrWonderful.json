@@ -1,0 +1,26 @@
+{
+  "albumInfo" :
+  {
+    "title" : "Mr. Wonderful",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "3:06",
+    "numOfTracks" : 1,
+    "releaseDate" :
+    {
+      "day" : 14,
+      "month" : "January",
+      "year" : "2014"
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Mr. Wonderful",
+      "artist" : "Saint Pepsi",
+      "length" : "3:06"
+    }
+  ]
+}
