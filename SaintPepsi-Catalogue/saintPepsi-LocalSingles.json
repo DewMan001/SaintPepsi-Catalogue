@@ -1,0 +1,47 @@
+{
+  "albumInfo" :
+  {
+    "title" : "Local Singles",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "14:05",
+    "numOfTracks" : 4,
+    "releaseDate" :
+    {
+      "day" : 28,
+      "month" : "December",
+      "year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Unhappy",
+      "artist" : "Saint Pepsi",
+      "length" : "3:07"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "Burn",
+      "artist" : "Saint Pepsi",
+      "length" : "3:33"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "We Belong Together",
+      "artist" : "Saint Pepsi",
+      "length" : "3:32"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "Erik Hassle - Talk About It (SAINT PEPSI Remix)",
+      "artist" : "Saint Pepsi",
+      "length" : "3:53"
+    }
+  ]
+}
