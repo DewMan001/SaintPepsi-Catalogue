@@ -26,7 +26,35 @@
     {
       "trackNum" : 2,
       "trackTitle" : "Pineapple Juniors",
-      "artist" : ""
+      "artist" : "Saint Pepsi",
+      "length" : "2:27"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "silhouettes",
+      "artist" : "Saint Pepsi",
+      "length" : "3:40"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "TEENLOVE",
+      "artist" : "Saint Pepsi",
+      "length" : "2:51"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "field day",
+      "artist" : "Saint Pepsi",
+      "length" : "2:12"
+    },
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "Isaac Washington",
+      "artist" : 
     }
   ]
 }
