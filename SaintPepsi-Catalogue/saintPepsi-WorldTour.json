@@ -1,0 +1,96 @@
+{
+  "albumInfo" :
+  {
+      "title" : "WORLD TOUR",
+      "artist" : "Saint Pepsi",
+      "genre" : "Vaporwave",
+      "runTime" : "29:02",
+      "numOfTracks" : 15,
+      "releaseDate" :
+      {
+        "day" : 3,
+        "month" : "January",
+        "year" : 2013
+      }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "title" : "World Tour Intro / NEW GENERATION ANTHEM (Live)",
+      "artist" : "Saint Pepsi",
+      "length" : "1:45"
+    },
+
+    {
+      "trackNum" : 2,
+      "title" : "stella's groove",
+      "artist" : "Saint Pepsi",
+      "length" : "3:31"
+    },
+
+    {
+      "trackNum" : 3,
+      "title" : "just begun",
+      "artist" : "Saint Pepsi",
+      "length" : "2:17"
+    },
+
+    {
+      "trackNum" : 4,
+      "title" : "dawson's creek",
+      "artist" : "Saint Pepsi",
+      "length" : "2:22",
+    },
+
+    {
+      "trackNum" : 5,
+      "title" : "one look",
+      "artist" : "Saint Pepsi",
+      "length" : "3:17",
+    },
+
+    {
+      "trackNum" : 6,
+      "title" : "feel**",
+      "artist" : "Saint Pepsi",
+      "length" : "1:27"
+    },
+
+    {
+      "trackNum" : 7,
+      "title" : "LOOK AT THE DOG",
+      "artist" : "Saint Pepsi",
+      "length" : "2:06"
+    },
+
+    {
+      "trackNum" : 8,
+      "title" : "vanilla pepsi",
+      "artist" : "Saint Pepsi",
+      "length" : "1:51"
+    },
+
+    {
+      "trackNum" : 9,
+      "title" : "new",
+      "artist" : "Saint Pepsi",
+      "length" : "0:53"
+    },
+
+    {
+      "trackNum" : 10,
+      "title" : "fazz",
+      "artist" : "Saint Pepsi",
+      "length" : "2:03"
+    },
+
+    {
+      "trackNum" : 11,
+      "title" : "there 2 remind me",
+      "artist" : 
+    }
+  ]
+
+}
