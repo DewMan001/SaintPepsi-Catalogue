@@ -112,6 +112,20 @@
       "trackTitle" : "Friends",
       "artist" : "Saint Pepsi",
       "length" : "2:39"
+    },
+
+    {
+      "trackNum" : 15,
+      "trackTitle" : "Magazine",
+      "artist" : "Saint Pepsi",
+      "length" : "1:53"
+    },
+
+    {
+      "trackNum" : 16,
+      "trackTitle" : "Again",
+      "artist" : "Saint Pepsi",
+      "length" : "0:48"
     }
   ]
 }
