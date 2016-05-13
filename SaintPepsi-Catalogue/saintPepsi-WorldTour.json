@@ -89,7 +89,28 @@
     {
       "trackNum" : 11,
       "title" : "there 2 remind me",
-      "artist" : 
+      "artist" : "Saint Pepsi",
+      "length" : "2:20"
+    },
+
+    {
+      "trackNum" : 12,
+      "title" : "D R A M I D A",
+      "artist" : "Saint Pepsi",
+      "length" : "1:12"
+    },
+
+    {
+      "trackNum" : 13,
+      "title" : "parker brothers",
+      "artist" : "Saint Pepsi",
+      "length" : "2:05"
+    },
+
+    {
+      "trackNum" : 14,
+      "title" : "miracle on lennox",
+      "artist" : "Saint Pepsi",
     }
   ]
 
