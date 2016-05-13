@@ -53,6 +53,34 @@
 
     {
       "trackNum" : 6,
+      "trackTitle" : "FRAPPE SNOWLAND",
+      "artist" : "Saint Pepsi",
+      "length" : "2:38"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "Hotline",
+      "artist" : "Saint Pepsi",
+      "length" : "1:12"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "eden",
+      "artist" : "Saint Pepsi",
+      "length" : "1:46"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "Honey",
+      "artist" : "Saint Pepsi",
+      "length" : "3:08"
+    },
+
+    {
+      "trackNum" : 
     }
   ]
 }
