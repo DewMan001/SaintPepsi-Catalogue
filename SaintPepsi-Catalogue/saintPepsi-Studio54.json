@@ -8,7 +8,27 @@
     "numOfTracks" : 16,
     "releaseDate" :
     {
-      "day"
+      "day" : 7,
+      "month" : "March",
+      "year" : 2013
     }
-  }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "STUDIO 54",
+      "artist" : "Saint Pepsi",
+      "length" : "0:50"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "CHALLENGER",
+      "artist" : "Saint Pepsi",
+      "length" : "3:16"
+    },
+    
+  ]
 }
