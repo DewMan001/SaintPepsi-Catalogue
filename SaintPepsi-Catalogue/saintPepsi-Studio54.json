@@ -4,6 +4,11 @@
     "title" : "STUDIO 54",
     "artist" : "Saint Pepsi",
     "genre" : "Vaporwave",
-    "runTime" : 
+    "runTime" : "34:37",
+    "numOfTracks" : 16,
+    "releaseDate" :
+    {
+      "day"
+    }
   }
 }
