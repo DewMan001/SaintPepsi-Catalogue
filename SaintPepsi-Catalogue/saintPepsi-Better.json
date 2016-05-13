@@ -15,10 +15,12 @@
   },
 
   "trackInfo" :
-  {
-    "trackNum" : 1,
-    "trackTitle" : "Better",
-    "artist" : "Saint Pepsi",
-    "length" : "3:54"
-  }
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "Better",
+      "artist" : "Saint Pepsi",
+      "length" : "3:54"
+    }
+  ]
 }

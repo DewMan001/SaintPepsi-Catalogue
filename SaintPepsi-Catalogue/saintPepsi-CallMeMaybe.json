@@ -1,0 +1,26 @@
+{
+  "albumInfo" :
+  {
+    "title" : "carly rae jepsen - call me maybe (SAINT PEPSI edit)",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "7:07",
+    "numOfTracks" : 1,
+    "releaseDate" :
+    {
+      "day" : 5,
+      "month" : "June",
+      "year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "carly rae jepsen - call me maybe (SAINT PEPSI edit)",
+      "artist" : "Saint Pepsi",
+      "length" : "7:07"
+    }
+  ]
+}
