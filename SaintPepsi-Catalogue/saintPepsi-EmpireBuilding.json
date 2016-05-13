@@ -105,6 +105,20 @@
       "trackTitle" : "aurora calling",
       "artist" : "Saint Pepsi",
       "length" : "2:18"
+    },
+
+    {
+      "trackNum" : 14,
+      "trackTitle" : "TRUSTFALL",
+      "artist" : "Saint Pepsi",
+      "length" : "1:56"
+    },
+
+    {
+      "trackNum" : 15,
+      "trackTitle" : "REVUE",
+      "artist" : "Saint Pepsi",
+      "length" : "2:01"
     }
   ]
 }
