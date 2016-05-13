@@ -5,7 +5,13 @@
     "artist" : "Saint Pepsi",
     "genre" : "Vaporwave",
     "runTime" : "36:19",
-    "numOfTracks" : 13
+    "numOfTracks" : 13,
+    "releaseDate" :
+    {
+      "day" : 31,
+      "month" : "May",
+      "year" : 2013
+    }
   },
 
   "trackInfo" :
@@ -14,7 +20,7 @@
       "trackNum" : 1,
       "trackTitle" : "Hit Vibes",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "1:01"
     },
 
     {
@@ -56,49 +62,49 @@
       "trackNum" : 7,
       "trackTitle" : "Skylar Spence",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "3:38"
     },
 
     {
       "trackNum" : 8,
-      "trackTitle" : "",
+      "trackTitle" : "Interlude",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "1:15"
     },
 
     {
       "trackNum" : 9,
-      "trackTitle" : "",
+      "trackTitle" : "I Tried",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "2:40"
     },
 
     {
       "trackNum" : 10,
-      "trackTitle" : "",
+      "trackTitle" : "Strawberry Lemonade",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "3:55"
     },
 
     {
       "trackNum" : 11,
-      "trackTitle" : "",
+      "trackTitle" : "Fantasy",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "3:34"
     },
 
     {
       "trackNum" : 12,
-      "trackTitle" : "",
+      "trackTitle" : "Miss You",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "4:08"
     },
 
     {
       "trackNum" : 13,
-      "trackTitle" : "",
+      "trackTitle" : "Outro",
       "artist" : "Saint Pepsi",
-      "length" : ""
+      "length" : "1:02"
     },
   ]
 }
