@@ -1,0 +1,110 @@
+{
+  "trackInfo":
+  {
+    "title" : "triumph international",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "21:45",
+    "numOfTracks" : 13,
+    "releaseDate" :
+    {
+      "day" : 1,
+      "month" : "January",
+      "year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "triumph international",
+      "artist" : "Saint Pepsi",
+      "length" : "0:22"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "never change",
+      "artist" : "Saint Pepsi",
+      "length" : "1:33"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "top gun 2000",
+      "artist" : "Saint Pepsi",
+      "length" : "1:54"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "hands off",
+      "artist" : "Saint Pepsi",
+      "length" : "1:21",
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "dream supreme",
+      "artist" : "Saint Pepsi",
+      "length" : "3:46"
+    },
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "key fits ii",
+      "artist" : "Saint Pepsi",
+      "length" : "1:38"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "the anomaly",
+      "artist" : "Saint Pepsi",
+      "length" : "1:21"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "tequila sunrise melting",
+      "artist" : "Saint Pepsi",
+      "length" : "1:42"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "birthday child",
+      "artist" : "Saint Pepsi",
+      "length" : "1:40"
+    },
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "like i do (but i do but you still do me like you do)",
+      "artist" : "Saint Pepsi",
+      "length" : "1:31"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "feelings",
+      "artist" : "Saint Pepsi",
+      "length" : "1:45"
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "losing game",
+      "artist" : "Saint Pepsi",
+      "length" : "2:14"
+    },
+
+    {
+      "trackNum" : 13,
+      "trackTitle" : "p.e.p.s.i contigo.",
+      "artist" : "Saint Pepsi",
+      "length" : "0:50"
+    }
+  ]
+}
