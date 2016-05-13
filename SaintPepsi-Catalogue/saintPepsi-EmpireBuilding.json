@@ -3,6 +3,30 @@
   {
     "title" : "EMPIRE BUILDING",
     "artist" : "Saint Pepsi",
-    "genre" : 
-  }
+    "genre" : "Vaporwave",
+    "runTime" : "35:05",
+    "numOfTracks" : 15,
+    "releaseDate" :
+    {
+      "day" : 29,
+      "month" : "January",
+      "year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "EMPIRE",
+      "artist" : "Saint Pepsi",
+      "length" : "0:45"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "Pineapple Juniors",
+      "artist" : ""
+    }
+  ]
 }
