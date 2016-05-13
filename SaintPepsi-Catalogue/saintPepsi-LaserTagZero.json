@@ -1,0 +1,80 @@
+{
+  "albumInfo" :
+  {
+    "title" : "LASER TAG ZERO",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "31:12",
+    "numOfTracks" : 10,
+    "releaseDate" :
+    {
+      "day" : 27,
+      "month" : "December",
+      "year" : 2012
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "即時停止を押し",
+      "artist" : "Saint Pepsi",
+      "length" : "1:09"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "ラグラッツ",
+      "artist" : "Saint Pepsi",
+      "length" : "3:23"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "あまりにも新鮮CARLTON",
+      "artist" : "Saint Pepsi",
+      "length" : "4:03"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "宇宙の風呂敷",
+      "artist" : "Saint Pepsi",
+      "length" : "4:30"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "私と一緒に",
+      "artist" : "Saint Pepsi",
+      "length" : "5:08"
+    },
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "幕間",
+      "artist" : "Saint Pepsi",
+      "length" : "0:57"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "浮浪者",
+      "artist" : "Saint Pepsi",
+      "length" : "3:29"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "約束を守らない人のジュース",
+      "artist" : "Saint Pepsi",
+      "length" : "2:52"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : ""
+    }
+  ]
+}
