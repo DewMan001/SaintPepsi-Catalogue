@@ -1,0 +1,24 @@
+{
+  "albumInfo" :
+  {
+    "title" : "BETTER",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "3:54",
+    "numOfTracks" : 1,
+    "releaseDate" :
+    {
+      "day" : 20,
+      "month" : "April",
+      "Year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  {
+    "trackNum" : 1,
+    "trackTitle" : "Better",
+    "artist" : "Saint Pepsi",
+    "length" : "3:54"
+  }
+}
