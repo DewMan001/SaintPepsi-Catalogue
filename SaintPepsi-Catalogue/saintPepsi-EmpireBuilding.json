@@ -54,7 +54,30 @@
     {
       "trackNum" : 6,
       "trackTitle" : "Isaac Washington",
-      "artist" : 
-    }
+      "artist" : "Saint Pepsi",
+      "length" : "2:35"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "ISLANDS",
+      "artist" : "Saint Pepsi",
+      "length" : "2:35",
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "alpine ice",
+      "artist" : "Saint Pepsi",
+      "length" : "2:14"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "Resort",
+      "artist" : "Saint Pepsi",
+      "length" : "1:41"
+    },
+    
   ]
 }
