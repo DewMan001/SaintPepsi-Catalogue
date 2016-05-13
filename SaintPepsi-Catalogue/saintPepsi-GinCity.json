@@ -8,7 +8,9 @@
     "numOfTracks" : 6,
     "releaseDate" :
     {
-      "day" : 
+      "day" : 25,
+      "month" : "February",
+      "year" : "2014"
     }
   }
 }
