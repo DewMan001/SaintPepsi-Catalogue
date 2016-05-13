@@ -5,7 +5,13 @@
     "artist" : "Skylar Spence",
     "genre" : "Pop",
     "runTime" : "40:46",
-    "numOfTracks" : 11
+    "numOfTracks" : 11,
+    "releaseDate" :
+    {
+      "day" : 18,
+      "month" : "September",
+      "year" : 2015
+    }
   },
 
   "trackInfo" :
