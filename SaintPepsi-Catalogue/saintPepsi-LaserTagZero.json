@@ -74,7 +74,16 @@
 
     {
       "trackNum" : 9,
-      "trackTitle" : ""
+      "trackTitle" : "散髪100",
+      "artist" : "Saint Pepsi",
+      "length" : "2:38"
+    },
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "レーザータグZERO",
+      "artist" : "Saint Pepsi",
+      "length" : "2:59"
     }
   ]
 }
