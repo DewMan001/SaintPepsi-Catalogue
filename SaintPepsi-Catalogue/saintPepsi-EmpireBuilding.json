@@ -78,6 +78,33 @@
       "artist" : "Saint Pepsi",
       "length" : "1:41"
     },
-    
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "SHAOLIN",
+      "artist" : "Saint Pepsi",
+      "length" : "3:08"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "De Salle",
+      "artist" : "Saint Pepsi",
+      "length" : "2:33"
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "Nova",
+      "artist" : "Saint Pepsi",
+      "length" : "2:18"
+    },
+
+    {
+      "trackNum" : 13,
+      "trackTitle" : "aurora calling",
+      "artist" : "Saint Pepsi",
+      "length" : "2:18"
+    }
   ]
 }
