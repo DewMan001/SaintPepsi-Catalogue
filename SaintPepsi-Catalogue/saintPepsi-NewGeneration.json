@@ -1,0 +1,117 @@
+{
+  "albumInfo" :
+  {
+    "title" : "New Generation",
+    "artist" : "Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "24:52",
+    "numOfTracks" : "14",
+    "releaseDate" :
+    {
+      "day" : 2,
+      "month" : "January",
+      "year" : 2013
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "new generation",
+      "artist" : "Saint Pepsi",
+      "length" : "0:35"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "ビッグバンの祭壇BANGALTER",
+      "artist" : "Saint Pepsi",
+      "length" : "2:10"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "animal magic",
+      "artist" : "Saint Pepsi",
+      "length" : "2:31"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "AT&T",
+      "artist" : "Saint Pepsi",
+      "length" : "0:42"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "alton brown",
+      "artist" : "Saint Pepsi",
+      "length" : "1:47"
+    }
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "love disaster",
+      "artist" : "Saint Pepsi",
+      "length" : "2:18"
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "automatic systematic",
+      "artist" : "Saint Pepsi",
+      "length" : "1:19"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "luxury shadow",
+      "artist" : "Saint Pepsi",
+      "length" : "1:07"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "key fits i",
+      "artist" : "Saint Pepsi",
+      "length" : "1:48"
+    },
+
+    {
+      "trackNum" : 10,
+      "trackTitle" : "brain",
+      "artist" : "Saint Pepsi",
+      "length" : "1:43"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "MAXIMUM BIG SURPRISE",
+      "artist" : "Saint Pepsi",
+      "length" : "2:31",
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "water & rain",
+      "artist" : "Saint Pepsi",
+      "length" : "1:57"
+    },
+
+    {
+      "trackNum" : 13,
+      "trackTitle" : "memphis",
+      "artist" : "Saint Pepsi",
+      "length" : "2:19"
+    },
+
+    {
+      "trackNum" : 14,
+      "trackTitle" : "sunny daze",
+      "artist" : "Saint Pepsi",
+      "length" :  "1:56"
+    }
+  ]
+}
