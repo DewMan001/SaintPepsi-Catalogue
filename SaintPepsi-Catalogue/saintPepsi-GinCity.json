@@ -39,7 +39,23 @@
 
     {
       "trackNum" : 4,
-      "trackTitle" : "Disappearing"
+      "trackTitle" : "Disappearing",
+      "artist" : "Saint Pepsi",
+      "length" : "3:12"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "Mr. Wonderful",
+      "artist" : "Saint Pepsi",
+      "length" : "3:06",
+    },
+
+    {
+      "trackNum" : 6,
+      "trackTitle" : "Bieber",
+      "artist" : "Saint Pepsi",
+      "length" : "3:13"
     }
   ]
 }
