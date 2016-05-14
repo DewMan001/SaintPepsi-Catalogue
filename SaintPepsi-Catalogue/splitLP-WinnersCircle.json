@@ -34,6 +34,22 @@
       "trackNum" : 3,
       "trackTitle" : "BACKUP DRIVE",
       "artist" : "ショッピングワールドjp",
-    }
+      "length" : "2:56"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "BETA FUNK",
+      "artist" : "ショッピングワールドjp",
+      "length" : "2:44"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "COMPACT CRUISE",
+      "artist" : "ショッピングワールドjp",
+      "length" : "2:37"
+    },
+    
   ]
 }
