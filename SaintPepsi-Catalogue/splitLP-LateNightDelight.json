@@ -6,6 +6,20 @@
     "genre" : "Vaporwave",
     "runTime" : "30:44",
     "numOfTracks" : 17,
-    "releaseDate" : 
-  }
+    "releaseDate" :
+    {
+      "day" : 2,
+      "month" : "February",
+      "year" : "2013"
+    }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "ALL NIGHT",
+      "artist" : "luxury elite"
+    }
+  ]
 }
