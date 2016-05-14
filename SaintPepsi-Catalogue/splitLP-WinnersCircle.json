@@ -9,7 +9,31 @@
     "releaseDate" :
     {
       "day" : 11,
-      "month"
+      "month" : "May",
+      "year" : 2013
     }
-  }
+  },
+
+  "trackInfo" :
+  [
+    {
+      "trackNum" : 1,
+      "trackTitle" : "TIDAL TREAT",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:18"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "FOCUS GROUP",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:45"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "BACKUP DRIVE",
+      "artist" : "ショッピングワールドjp",
+    }
+  ]
 }
