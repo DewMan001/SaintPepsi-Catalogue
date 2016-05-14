@@ -1,6 +1,15 @@
 {
   "albumInfo" :
   {
-    "title" : "WINNER'S CIRCLE"
+    "title" : "WINNER'S CIRCLE",
+    "artist" : "ショッピングワールドjp & Saint Pepsi",
+    "genre" : "Vaporwave",
+    "runTime" : "56:33",
+    "numOfTracks" : 24,
+    "releaseDate" :
+    {
+      "day" : 11,
+      "month"
+    }
   }
 }
