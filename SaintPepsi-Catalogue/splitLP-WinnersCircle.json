@@ -81,6 +81,36 @@
 
     {
       "trackNum" : 10,
+      "trackTitle" : "MEMORY RETRIEVAL",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:40"
+    },
+
+    {
+      "trackNum" : 11,
+      "trackTitle" : "TRIUMPH SEALINE",
+      "artist" : "ショッピングワールドjp",
+      "length" : "2:32"
+    },
+
+    {
+      "trackNum" : 12,
+      "trackTitle" : "SEMIOTIC LOVE",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:50"
+    },
+
+    {
+      "trackNum" : 13,
+      "trackTitle" : "True Vices",
+      "artist" : "Saint Pepsi",
+      "length" : "1:11"
+    },
+
+    {
+      "trackNum" : 14,
+      "trackTitle" : "Private Caller",
+      "artist"
     }
   ]
 }
