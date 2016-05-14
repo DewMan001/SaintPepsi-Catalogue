@@ -19,7 +19,36 @@
     {
       "trackNum" : 1,
       "trackTitle" : "ALL NIGHT",
-      "artist" : "luxury elite"
+      "artist" : "luxury elite",
+      "length" : "0:46"
+    },
+
+    {
+      "trackNum" : 2,
+      "trackTitle" : "MILD SEVEN",
+      "artist" : "luxury elite",
+      "length" : "1:44"
+    },
+
+    {
+      "trackNum" : 3,
+      "trackTitle" : "CRUISING",
+      "artist" : "luxury elite",
+      "length" : "0:55"
+    },
+
+    {
+      "trackNum" : 4,
+      "trackTitle" : "SCHAUMBURG",
+      "artist" : "luxury elite",
+      "length" : "1:26"
+    },
+
+    {
+      "trackNum" : 5,
+      "trackTitle" : "YEAH",
+      "artist" : "luxury elite",
+      "length" : "1:15"
     }
   ]
 }
