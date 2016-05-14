@@ -139,7 +139,37 @@
       "trackNum" : 18,
       "trackTitle" : "Serious",
       "artist" : "Saint Pepsi",
-      "length" : ""
-    }
+      "length" : "3:03"
+    },
+
+    {
+      "trackNum" : 19,
+      "trackTitle" : "Drop",
+      "artist" : "Saint Pepsi",
+      "length" : "2:01"
+    },
+
+    {
+      "trackNum" : 20,
+      "trackTitle" : "Kickstart My Heart",
+      "artist" : "Saint Pepsi",
+      "length" : "2:37"
+    },
+
+    {
+      "trackNum" : 21,
+      "trackTitle" : "Dreams",
+      "artist" : "Saint Pepsi",
+      "length" : "2:06"
+    },
+
+    {
+      "trackNum" : 22,
+      "trackTitle" : "Why",
+      "artist" : "Saint Pepsi",
+      "length" : "2:08"
+    },
+
+    
   ]
 }
