@@ -53,7 +53,34 @@
 
     {
       "trackNum" : 6,
-      "trackTitle" : "HYPERTEXT TRANSLATE"
+      "trackTitle" : "HYPERTEXT TRANSLATE",
+      "artist" : "ショッピングワールドjp",
+      "length" : "2:50",
+    },
+
+    {
+      "trackNum" : 7,
+      "trackTitle" : "CORRUPT GROOVE",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:48"
+    },
+
+    {
+      "trackNum" : 8,
+      "trackTitle" : "LOVING SYSTEMS",
+      "artist" : "ショッピングワールドjp",
+      "length" : "2:24"
+    },
+
+    {
+      "trackNum" : 9,
+      "trackTitle" : "PRISM PROGRAM",
+      "artist" : "ショッピングワールドjp",
+      "length" : "1:54"
+    },
+
+    {
+      "trackNum" : 10,
     }
   ]
 }
